@@ -1,1 +1,1 @@
-import com.javax.util.Properties;
+import com.javax.util.*;
